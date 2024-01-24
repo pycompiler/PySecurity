@@ -4,7 +4,7 @@ try:
     import json
     from colorama import Fore
 except Exception:
-    print(f"{Fore.LIGHTRED_EX}Your Modules Are Missing.")
+    print("Your Modules Are Missing.")
 
 if os.name == "nt":
     os.system("cls")
