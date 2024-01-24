@@ -3,6 +3,9 @@ The fastest and most practical tool for DNS and IP check operations. Created usi
 
 ## Installation
 ```py
+git clone https://github.com/pycompiler/PySecurity.git && cd PySecurity
+```
+```py
 pip install -r requirements.txt
 ```
 ```py
